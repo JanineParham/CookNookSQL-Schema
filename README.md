@@ -1,3 +1,3 @@
 # Cook Nook Recipe Schema
 
-![Recipe Schema](RecipeSQLSchema.png)
+![Cook Nook Schema](CookNookSchema.png)
